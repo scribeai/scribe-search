@@ -1,0 +1,714 @@
+[
+  {
+    "speakerIds": [1],
+    "text": "Well Costello, I'm going to New York with you. You know Bucky Harris, the Yankee's manager, gave me a job as coach for as long as you're on the team."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Look Abbott, if you're the coach, you must know all the players."
+  },
+  {
+    "speakerIds": [1],
+    "text": "I certainly do."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Well you know I've never met the guys. So you'll have to tell me their names, and then I'll know who's playing on the team."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Oh, I'll tell you their names, but you know it seems to me they give these ball players now-a-days very peculiar names."
+  },
+  {
+    "speakerIds": [2],
+    "text": "You mean funny names?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Strange names, pet names... like Dizzy Dean..."
+  },
+  {
+    "speakerIds": [2],
+    "text": "His brother Daffy."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Daffy Dean..."
+  },
+  {
+    "speakerIds": [2],
+    "text": "And their French cousin."
+  },
+  {
+    "speakerIds": [1],
+    "text": "French?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Goofé."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Goofé Dean. Well, let's see, we have on the bags, Who's on first, What's on second, I Don't Know is on third..."
+  },
+  {
+    "speakerIds": [2],
+    "text": "That's what I want to find out."
+  },
+  {
+    "speakerIds": [1],
+    "text": "I say Who's on first, What's on second, I Don't Know's on third."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Are you the manager?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [2],
+    "text": "You gonna be the coach too?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [2],
+    "text": "And you don't know the fellows' names?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Well I should."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Well then who's on first?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I mean the fellow's name."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The guy on first."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The first baseman."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The guy playing..."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who is on first!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm asking YOU who's on first."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's the man's name."
+  },
+  {
+    "speakerIds": [2],
+    "text": "That's who's name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Well go ahead and tell me."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "That's who?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Look, you gotta first baseman?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Certainly."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Who's playing first?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's right."
+  },
+  {
+    "speakerIds": [2],
+    "text": "When you pay off the first baseman every month, who gets the money?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Every dollar of it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "All I'm trying to find out is the fellow's name on first base."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The guy that gets..."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Who gets the money..."
+  },
+  {
+    "speakerIds": [1],
+    "text": "He does, every dollar. Sometimes his wife comes down and collects it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Who's wife?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [1],
+    "text": "What's wrong with that?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Look, all I wanna know is when you sign up the first baseman, how does he sign his name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The guy."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "How does he sign..."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's how he signs it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Who?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes."
+  },
+  {
+    "speakerIds": [2],
+    "text": "All I'm trying to find out is what's the guy's name on first base."
+  },
+  {
+    "speakerIds": [1],
+    "text": "No. What is on second base."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm not asking you who's on second."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who's on first."
+  },
+  {
+    "speakerIds": [2],
+    "text": "One base at a time!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Well, don't change the players around."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm not changing nobody!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Take it easy, buddy."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm only asking you, who's the guy on first base?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's right."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Ok."
+  },
+  {
+    "speakerIds": [1],
+    "text": "All right."
+  },
+  {
+    "speakerIds": [2],
+    "text": "What's the guy's name on first base?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "No. What is on second."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm not asking you who's on second."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who's on first."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I don't know."
+  },
+  {
+    "speakerIds": [1],
+    "text": "He's on third, we're not talking about him."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Now how did I get on third base?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Why you mentioned his name."
+  },
+  {
+    "speakerIds": [2],
+    "text": "If I mentioned the third baseman's name, who did I say is playing third?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "No. Who's playing first."
+  },
+  {
+    "speakerIds": [2],
+    "text": "What's on first?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "What's on second."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I don't know."
+  },
+  {
+    "speakerIds": [1],
+    "text": "He's on third."
+  },
+  {
+    "speakerIds": [2],
+    "text": "There I go, back on third again!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Would you just stay on third base and don't go off it."
+  },
+  {
+    "speakerIds": [1],
+    "text": "All right, what do you want to know?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Now who's playing third base?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Why do you insist on putting Who on third base?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "What am I putting on third."
+  },
+  {
+    "speakerIds": [1],
+    "text": "No. What is on second."
+  },
+  {
+    "speakerIds": [2],
+    "text": "You don't want who on second?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who is on first."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I don't know."
+  },
+  {
+    "speakerIds": [1, 2],
+    "text": "Third base!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Look, you gotta outfield?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Sure."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The left fielder's name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Why."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I just thought I'd ask you."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Well, I just thought I'd tell ya."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Then tell me who's playing left field."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who's playing first."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm not... stay out of the infield! I want to know what's the guy's name in left field?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "No, What is on second."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'm not asking you who's on second."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Who's on first!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "I don't know."
+  },
+  {
+    "speakerIds": [1, 2],
+    "text": "Third base!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "The left fielder's name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Why."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Because!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Oh, he's centerfield."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Look, You gotta pitcher on this team?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Sure."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The pitcher's name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Tomorrow."
+  },
+  {
+    "speakerIds": [2],
+    "text": "You don't want to tell me today?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "I'm telling you now."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Then go ahead."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Tomorrow!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "What time?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "What time what?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "What time tomorrow are you gonna tell me who's pitching?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Now listen. Who is not pitching."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I'll break your arm, you say who's on first! I want to know what's the pitcher's name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "What's on second."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I don't know."
+  },
+  {
+    "speakerIds": [1, 2],
+    "text": "Third base!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Gotta a catcher?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Certainly."
+  },
+  {
+    "speakerIds": [2],
+    "text": "The catcher's name?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Today."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Today, and tomorrow's pitching."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Now you've got it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "All we got is a couple of days on the team."
+  },
+  {
+    "speakerIds": [2],
+    "text": "You know I'm a catcher too."
+  },
+  {
+    "speakerIds": [1],
+    "text": "So they tell me."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I get behind the plate to do some fancy catching, Tomorrow's pitching on my team and a heavy hitter gets up. Now the heavy hitter bunts the ball. When he bunts the ball, me, being a good catcher, I'm gonna throw the guy out at first base. So I pick up the ball and throw it to who?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Now that's the first thing you've said right."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I don't even know what I'm talking about!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's all you have to do."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Is to throw the ball to first base."
+  },
+  {
+    "speakerIds": [1],
+    "text": "Yes!"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Now who's got it?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Look, if I throw the ball to first base, somebody's gotta get it. Now who has it?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Who?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Naturally?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [2],
+    "text": "So I pick up the ball and I throw it to Naturally."
+  },
+  {
+    "speakerIds": [1],
+    "text": "No you don't, you throw the ball to Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's different."
+  },
+  {
+    "speakerIds": [2],
+    "text": "That's what I said."
+  },
+  {
+    "speakerIds": [1],
+    "text": "You're not saying it..."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I throw the ball to Naturally."
+  },
+  {
+    "speakerIds": [1],
+    "text": "You throw it to Who."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "That's what I said!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "You ask me."
+  },
+  {
+    "speakerIds": [2],
+    "text": "I throw the ball to who?"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Now you ask me."
+  },
+  {
+    "speakerIds": [1],
+    "text": "You throw the ball to Who?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "Naturally."
+  },
+  {
+    "speakerIds": [1],
+    "text": "That's it."
+  },
+  {
+    "speakerIds": [2],
+    "text": "Same as you! Same as YOU! I throw the ball to who. Whoever it is drops the ball and the guy runs to second. Who picks up the ball and throws it to What. What throws it to I Don't Know. I Don't Know throws it back to Tomorrow, Triple play. Another guy gets up and hits a long fly ball to Because. Why? I don't know! He's on third and I don't give a darn!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "What?"
+  },
+  {
+    "speakerIds": [2],
+    "text": "I said I don't give a darn!"
+  },
+  {
+    "speakerIds": [1],
+    "text": "Oh, that's our shortstop."
+  }
+]
