@@ -15,9 +15,9 @@ you prefer not to.
 
 1. Click `Use this template` on https://github.com/scribeai/scribe-search.
 2. Create a new private repo based on `scribe-search`.
-3. Grant read access to your reviewer by going to `Settings` > `Manage access`
-   in your private repo.
-4. Clone your repo onto your system.
+3. Invite your reviewer as a collaborator to your private repo by going to
+   `Settings` > `Manage access`.
+4. Clone your private repo onto your system.
 5. Install NPM on your system if it's not already installed.
 6. In your repo directory, run `npm install` to install dependencies.
 7. In your repo directory, run `npm start` to start a development server.
