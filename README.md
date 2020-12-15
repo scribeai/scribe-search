@@ -20,4 +20,5 @@ you prefer not to.
 5. In your repo directory, run `npm install` to install dependencies.
 6. In your repo directory, run `npm start` to start a development server.
 7. When you are done, invite your reviewer as a collaborator to your private
-   repo by going to `Settings` > `Manage access`.
+   repo by going to:\
+   `Settings` > `Manage access`
